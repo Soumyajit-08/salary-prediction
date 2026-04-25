@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin"
+    },
+    "soumya": {
+        "password": "$2b$12$jfmKiboYTLXjCoi47AXE8e8pQazRkkrH2iX2Ov2DRQQO3rPJEh7kW",
+        "role": "user"
+    }
+}
